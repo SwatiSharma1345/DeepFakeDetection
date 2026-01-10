@@ -25,7 +25,7 @@
     "firebase": "^10.13.2",
     "framer-motion": "^11.7.0",
     "lucide-react": "^0.446.0",
-    "mongoose": "^8.7.0",
+    "mongoose": "^8.9.5",
     "next": "14.2.35",
     "next-auth": "^4.24.8",
     "next-video": "^1.2.0",
